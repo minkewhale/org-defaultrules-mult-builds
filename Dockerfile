@@ -1,1 +1,1 @@
-FROM helloworld:latest
+FROM alpine:latest
